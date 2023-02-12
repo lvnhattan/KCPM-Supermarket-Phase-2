@@ -1,0 +1,66 @@
+[
+    {
+      "description": "should change password fail with leaving the old password field blank and entering the valid new and confirm password.",
+      "currentPass": "",
+      "newPass": "654321a@",
+      "confirmPass":"654321a@",
+      "expected": "CHANGE_FAIL"
+    },
+
+    {
+        "description": "should change password fail with entering the invalid old password and valid (matching) new and confirm password.",
+        "currentPass": "wrongpass",
+        "newPass": "654321a@",
+        "confirmPass":"654321a@",
+        "expected": "CHANGE_FAIL"
+    },
+
+    {
+        "description": "should change password fail with entering the valid old password and confirm password by leaving the new password field as blank.",
+        "currentPass": "123456a@",
+        "newPass": "",
+        "confirmPass":"654321a@",
+        "expected": "CHANGE_FAIL"
+    },
+
+    {
+        "description": "should change password fail with entering the valid old password and new password by leaving the Confirm password field as blank.",
+        "currentPass": "123456a@",
+        "newPass": "",
+        "confirmPass":"654321a@",
+        "expected": "CHANGE_FAIL"
+    },
+
+    {
+        "description": "should change password fail with entering the valid old password and leaving the New Password and Confirm password field as blank.",
+        "currentPass": "123456a@",
+        "newPass": "",
+        "confirmPass":"",
+        "expected": "CHANGE_FAIL"
+    },
+
+    {
+        "description": "should change password fail with entering the valid old password and entering only blank space in new and confirm password.",
+        "currentPass": "",
+        "newPass": " ",
+        "confirmPass":" ",
+        "expected": "CHANGE_FAIL"
+    },
+
+    {
+        "description": "should change password fail with entering the Password strength (Easy, weak . Strong)",
+        "currentPass": "123456a@",
+        "newPass": "123456",
+        "confirmPass":"123456",
+        "expected": "CHANGE_FAIL"
+    },
+
+    {
+        "description": "should change password fail with entering the valid old password and matching new and confirm password.",
+        "currentPass": "123456a@",
+        "newPass": "654321a@",
+        "confirmPass":"654321a@",
+        "expected": "CHANGE_SUCCESS"
+    }
+
+  ]

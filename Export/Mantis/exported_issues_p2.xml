@@ -1,0 +1,2040 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mantis version="1.2.19" urlbase="https://cs.hcmus.edu.vn/mantisbt/" issuelink="#" notelink="~" format="1">
+    <issue>
+        <id>46362</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2241">2021.20HCB.09.20424112</reporter>
+        <handler id="2241">2021.20HCB.09.20424112</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="70">have not tried</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645433062</date_submitted>
+        <last_updated>1645433062</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Đăng nhập thất bại khi nhập sai Password</summary>
+        <due_date>1</due_date>
+        <description>FR11-162-Đăng nhập thất bại khi nhập sai Password</description>
+    </issue>
+    <issue>
+        <id>46361</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2241">2021.20HCB.09.20424112</reporter>
+        <handler id="2241">2021.20HCB.09.20424112</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="70">have not tried</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645432976</date_submitted>
+        <last_updated>1645432976</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Đăng nhập thất bại khi nhập sai Username</summary>
+        <due_date>1</due_date>
+        <description>FR11-161-Đăng nhập thất bại khi nhập sai Username</description>
+    </issue>
+    <issue>
+        <id>46360</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2241">2021.20HCB.09.20424112</reporter>
+        <handler id="2241">2021.20HCB.09.20424112</handler>
+        <priority id="30">normal</priority>
+        <severity id="60">major</severity>
+        <reproducibility id="30">sometimes</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645432461</date_submitted>
+        <last_updated>1645432461</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Hiển thị thông báo số lượng sản phẩm không hợp lệ khi người dùng nhập số lượng sản phẩm là số thực</summary>
+        <due_date>1</due_date>
+        <description>FR05-143- Hiển thị thông báo số lượng sản phẩm không hợp lệ khi người dùng nhập số lượng sản phẩm là số thực</description>
+    </issue>
+    <issue>
+        <id>46359</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2241">2021.20HCB.09.20424112</reporter>
+        <handler id="2241">2021.20HCB.09.20424112</handler>
+        <priority id="30">normal</priority>
+        <severity id="60">major</severity>
+        <reproducibility id="30">sometimes</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645432368</date_submitted>
+        <last_updated>1645432368</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Hiển thị thông báo số lượng sản phẩm không hợp lệ khi người dùng để trống ô số lượng sản phẩm trong giỏ hàng</summary>
+        <due_date>1</due_date>
+        <description>FR05-142-Hiển thị thông báo số lượng sản phẩm không hợp lệ khi người dùng để trống ô số lượng sản phẩm trong giỏ hàng</description>
+    </issue>
+    <issue>
+        <id>46358</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2241">2021.20HCB.09.20424112</reporter>
+        <handler id="2241">2021.20HCB.09.20424112</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="70">have not tried</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645432273</date_submitted>
+        <last_updated>1645432273</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Khung Continue shopping phải được hiện thị phía bên góc trái của trang quản lý giỏ hàng</summary>
+        <due_date>1</due_date>
+        <description>FR05-141-Khung Continue shopping phải được hiện thị phía bên góc trái của trang quản lý giỏ hàng</description>
+    </issue>
+    <issue>
+        <id>46357</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2241">2021.20HCB.09.20424112</reporter>
+        <handler id="2241">2021.20HCB.09.20424112</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="30">sometimes</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645432174</date_submitted>
+        <last_updated>1645432174</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Khung checkout phải được hiện thị phía bên phải của trang quản lý giỏ hàng</summary>
+        <due_date>1</due_date>
+        <description>FR05-138-Khung checkout phải được hiện thị phía bên phải của trang quản lý giỏ hàng</description>
+    </issue>
+    <issue>
+        <id>46356</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2241">2021.20HCB.09.20424112</reporter>
+        <handler id="2241">2021.20HCB.09.20424112</handler>
+        <priority id="20">low</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="70">have not tried</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645432082</date_submitted>
+        <last_updated>1645432082</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Người dùng không thể nhập một số lượng rất lớn sản phẩm</summary>
+        <due_date>1</due_date>
+        <description>FR05-137-Người dùng không thể nhập một số lượng rất lớn sản phẩm </description>
+    </issue>
+    <issue>
+        <id>46355</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2241">2021.20HCB.09.20424112</reporter>
+        <handler id="2241">2021.20HCB.09.20424112</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="70">have not tried</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645431874</date_submitted>
+        <last_updated>1645431874</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Hiển thị thông báo số lượng sản phẩm không hợp lệ khi người dùng nhập số lượng sản phẩm âm vào ô số lượng sản phẩm của giỏ hàng</summary>
+        <due_date>1</due_date>
+        <description>FR05-136-Hiển thị thông báo số lượng sản phẩm không hợp lệ khi người dùng nhập số lượng sản phẩm âm vào ô số lượng sản phẩm của giỏ hàng</description>
+    </issue>
+    <issue>
+        <id>46354</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2240">2021.20HCB.09.20424070</reporter>
+        <handler id="2240">2021.20HCB.09.20424070</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645415074</date_submitted>
+        <last_updated>1645415074</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>textbox Shipping City không có icon label mô tả nội dung textbox</summary>
+        <due_date>1</due_date>
+        <description>NR-07-328 textbox Shipping City không có icon label mô tả nội dung textbox</description>
+    </issue>
+    <issue>
+        <id>46353</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2240">2021.20HCB.09.20424070</reporter>
+        <handler id="2240">2021.20HCB.09.20424070</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645415003</date_submitted>
+        <last_updated>1645415003</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>textbox Shipping Address không có icon label mô tả nội dung textbox</summary>
+        <due_date>1</due_date>
+        <description>NR-07-327 textbox Shipping Address không có icon label mô tả nội dung textbox</description>
+    </issue>
+    <issue>
+        <id>46352</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2240">2021.20HCB.09.20424070</reporter>
+        <handler id="2240">2021.20HCB.09.20424070</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645414976</date_submitted>
+        <last_updated>1645414976</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>textbox Phone Number không có icon label mô tả nội dung textbox</summary>
+        <due_date>1</due_date>
+        <description>NR-07-326 textbox Phone Number không có icon label mô tả nội dung textbox</description>
+    </issue>
+    <issue>
+        <id>46351</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2240">2021.20HCB.09.20424070</reporter>
+        <handler id="2240">2021.20HCB.09.20424070</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645414947</date_submitted>
+        <last_updated>1645414947</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>textbox Full name không có icon label mô tả nội dung textbox</summary>
+        <due_date>1</due_date>
+        <description>NR-07-325 textbox Full name không có icon label mô tả nội dung textbox</description>
+    </issue>
+    <issue>
+        <id>46350</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2240">2021.20HCB.09.20424070</reporter>
+        <handler id="2240">2021.20HCB.09.20424070</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645414900</date_submitted>
+        <last_updated>1645414900</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Tên người dùng không đi kèm với ảnh đại diện mặc định</summary>
+        <due_date>1</due_date>
+        <description>NR-07-321 Tên người dùng không đi kèm với ảnh đại diện mặc định</description>
+    </issue>
+    <issue>
+        <id>46349</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2240">2021.20HCB.09.20424070</reporter>
+        <handler id="2240">2021.20HCB.09.20424070</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645414860</date_submitted>
+        <last_updated>1645414860</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Tên người dùng hiển thị chữ thường</summary>
+        <due_date>1</due_date>
+        <description>NR-07-320 Tên người dùng hiển thị chữ thường</description>
+    </issue>
+    <issue>
+        <id>46348</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2240">2021.20HCB.09.20424070</reporter>
+        <handler id="2240">2021.20HCB.09.20424070</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645414829</date_submitted>
+        <last_updated>1645414829</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>màn hình không có button quay lại trang sản phẩm</summary>
+        <due_date>1</due_date>
+        <description>NR-07-319 màn hình không có button quay lại trang sản phẩm</description>
+    </issue>
+    <issue>
+        <id>46347</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2240">2021.20HCB.09.20424070</reporter>
+        <handler id="2240">2021.20HCB.09.20424070</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645414687</date_submitted>
+        <last_updated>1645414687</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Text box Shipping City có độ dài không bằng so với các textbox còn lại</summary>
+        <due_date>1</due_date>
+        <description>NR-07-316 Text box Shipping City có độ dài không bằng so với các textbox còn lại</description>
+    </issue>
+    <issue>
+        <id>46346</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2240">2021.20HCB.09.20424070</reporter>
+        <handler id="2240">2021.20HCB.09.20424070</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645414572</date_submitted>
+        <last_updated>1645414572</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Link forgot Password? không có màu sắc nổi bật</summary>
+        <due_date>1</due_date>
+        <description>NR-07-310 Link forgot Password? không có màu sắc nổi bật</description>
+    </issue>
+    <issue>
+        <id>46345</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2240">2021.20HCB.09.20424070</reporter>
+        <handler id="2240">2021.20HCB.09.20424070</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645414552</date_submitted>
+        <last_updated>1645414552</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>checkbox Remember me có kích thước nhỏ hơn cỡ chữ nội dung của checkbox</summary>
+        <due_date>1</due_date>
+        <description>NR-07-309 checkbox Remember me có kích thước nhỏ hơn cỡ chữ nội dung của checkbox</description>
+    </issue>
+    <issue>
+        <id>46344</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2240">2021.20HCB.09.20424070</reporter>
+        <handler id="2240">2021.20HCB.09.20424070</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645414496</date_submitted>
+        <last_updated>1645414496</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>textbox Password có icon label chỉ định nội dung textbox</summary>
+        <due_date>1</due_date>
+        <description>NR-07-308 textbox Password có icon label chỉ định nội dung textbox</description>
+    </issue>
+    <issue>
+        <id>46343</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2240">2021.20HCB.09.20424070</reporter>
+        <handler id="2240">2021.20HCB.09.20424070</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645414473</date_submitted>
+        <last_updated>1645414473</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>textbox Username không có icon label chỉ định nội dung textbox</summary>
+        <due_date>1</due_date>
+        <description>NR-07-307 textbox Username không có icon label chỉ định nội dung textbox</description>
+    </issue>
+    <issue>
+        <id>46342</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2240">2021.20HCB.09.20424070</reporter>
+        <handler id="2240">2021.20HCB.09.20424070</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645414441</date_submitted>
+        <last_updated>1645414441</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>nhóm các textbox security info có label tiêu đề không đúng với nội dung của nhóm</summary>
+        <due_date>1</due_date>
+        <description>NR-07-300 nhóm các textbox security info có label tiêu đề không đúng với nội dung của nhóm</description>
+    </issue>
+    <issue>
+        <id>46341</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2240">2021.20HCB.09.20424070</reporter>
+        <handler id="2240">2021.20HCB.09.20424070</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645414407</date_submitted>
+        <last_updated>1645414407</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>textbox Your message không có label chỉ định nội dung textbox</summary>
+        <due_date>1</due_date>
+        <description>NR-07-297 textbox Your message không có label chỉ định nội dung textbox</description>
+    </issue>
+    <issue>
+        <id>46340</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2240">2021.20HCB.09.20424070</reporter>
+        <handler id="2240">2021.20HCB.09.20424070</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645414386</date_submitted>
+        <last_updated>1645414386</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>nút thêm vào giỏ hàng đổi màu</summary>
+        <due_date>1</due_date>
+        <description>NR-07-291 nút thêm vào giỏ hàng đổi màu</description>
+    </issue>
+    <issue>
+        <id>46339</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2240">2021.20HCB.09.20424070</reporter>
+        <handler id="2240">2021.20HCB.09.20424070</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645414347</date_submitted>
+        <last_updated>1645414347</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Khoảng cách giữa 2 textbox &quot;Your Name&quot; và &quot;Your Email&quot; không bằng khoảng cách giữa 2 textbox &quot;Your Email&quot; và &quot;Your Message&quot;</summary>
+        <due_date>1</due_date>
+        <description>NR-07-268 Khoảng cách giữa 2 textbox &quot;Your Name&quot; và &quot;Your Email&quot; không bằng khoảng cách giữa 2 textbox &quot;Your Email&quot; và &quot;Your Message&quot;</description>
+    </issue>
+    <issue>
+        <id>46338</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2240">2021.20HCB.09.20424070</reporter>
+        <handler id="2240">2021.20HCB.09.20424070</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645414323</date_submitted>
+        <last_updated>1645414323</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Textbox &quot;Your Email&quot; hiển thị &quot;Your Email&quot;</summary>
+        <due_date>1</due_date>
+        <description>NR-07-287 Textbox &quot;Your Email&quot; hiển thị &quot;Your Email&quot;</description>
+    </issue>
+    <issue>
+        <id>46337</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2240">2021.20HCB.09.20424070</reporter>
+        <handler id="2240">2021.20HCB.09.20424070</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645414256</date_submitted>
+        <last_updated>1645414256</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Textbox &quot;Your Name&quot; hiển thị &quot;Your Name&quot;</summary>
+        <due_date>1</due_date>
+        <description>NR-07-286 Textbox &quot;Your Name&quot; hiển thị &quot;Your Name&quot;</description>
+    </issue>
+    <issue>
+        <id>46142</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2166">2021.20HCB.09.20424077</reporter>
+        <handler id="2166">2021.20HCB.09.20424077</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="70">have not tried</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645198778</date_submitted>
+        <last_updated>1645198778</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Trang web bị tấn công XSS ở ô Shipping City trong tính năng thay đổi địa chỉ giao hàng</summary>
+        <due_date>1</due_date>
+        <description>Trang web bị tấn công XSS ở ô Shipping City trong tính năng thay đổi địa chỉ giao hàng</description>
+        <steps_to_reproduce>1. Truy cập vào trang chủ&#13;
+2. Chọn vào tên người dùng trên thanh menu, chọn My Account&#13;
+3. Chọn tab Delivery Address&#13;
+4. Chọn Edit&#13;
+5. Nhập vào ô Fullname &quot;Nguyen Hoang Thuc&quot;&#13;
+6. Nhập Phone Number: &quot;0962924205&quot;&#13;
+7. Nhập Shipping Address:&quot;18 Nguyễn Thị Nhỏ, Quận 5&quot;&#13;
+8. Nhập Shipping City: &#13;
+&#13;
+&lt;script&gt;&#13;
+   alert(&quot;HACKED&quot;)&#13;
+&lt;/script&gt;&#13;
+&#13;
+9. Chọn [Update]&#13;
+&#13;
+Expected:&#13;
+Trang web không hiển thị thông báo HACKED&#13;
+&#13;
+Actually:&#13;
+Trang web hiển thị thông báo A potentially dangerous Request.Form value was detected from the client</steps_to_reproduce>
+    </issue>
+    <issue>
+        <id>46141</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2166">2021.20HCB.09.20424077</reporter>
+        <handler id="2166">2021.20HCB.09.20424077</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="70">have not tried</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645198675</date_submitted>
+        <last_updated>1645198675</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Trang web bị tấn công XSS ở ô Shipping Address trong tính năng thay đổi địa chỉ giao hàng</summary>
+        <due_date>1</due_date>
+        <description>Trang web bị tấn công XSS ở ô Shipping Address trong tính năng thay đổi địa chỉ giao hàng</description>
+        <steps_to_reproduce>1. Truy cập vào trang chủ&#13;
+2. Chọn vào tên người dùng trên thanh menu, chọn My Account&#13;
+3. Chọn tab Delivery Address&#13;
+4. Chọn Edit&#13;
+5. Nhập vào ô Fullname: &quot;Nguyen Hoang Thuc&quot;&#13;
+6. Nhập Phone Number: &quot;0962924205&quot;&#13;
+7. Nhập Shipping Address:&#13;
+&lt;script&gt;&#13;
+   alert(&quot;HACKED&quot;)&#13;
+&lt;/script&gt;&#13;
+&#13;
+8. Nhập Shipping City: &quot;Ho Chi Minh&quot;&#13;
+9. Chọn [Update]&#13;
+&#13;
+Expected:&#13;
+Trang web không hiển thị thông báo HACKED&#13;
+&#13;
+Actually:&#13;
+Trang web hiển thị thông báo A potentially dangerous Request.Form value was detected from the client</steps_to_reproduce>
+    </issue>
+    <issue>
+        <id>46140</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2166">2021.20HCB.09.20424077</reporter>
+        <handler id="2166">2021.20HCB.09.20424077</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="70">have not tried</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645198504</date_submitted>
+        <last_updated>1645198504</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Trang web bị tấn công XSS ở ô Full Name trong tính năng thay đổi địa chỉ giao hàng</summary>
+        <due_date>1</due_date>
+        <description>Trang web bị tấn công XSS ở ô Full Name trong tính năng thay đổi địa chỉ giao hàng</description>
+        <steps_to_reproduce>1. Truy cập vào trang chủ&#13;
+2. Chọn vào tên người dùng trên thanh menu, chọn My Account&#13;
+3. Chọn tab Delivery Address &#13;
+4. Chọn Edit&#13;
+5. Nhập vào ô Fullname&#13;
+&#13;
+&lt;script&gt; &#13;
+   alert(&quot;HACKED&quot;)&#13;
+&lt;/script&gt; &#13;
+&#13;
+6. Nhập Phone Number: &quot;0962924205&quot;&#13;
+7. Nhập Shipping Address:&quot;18 Nguyễn Thị Nhỏ, Quận 5&quot;&#13;
+8. Nhập Shipping City: &quot;Ho Chi Minh&quot;&#13;
+9. Chọn [Update]&#13;
+&#13;
+Expected: &#13;
+Trang web không hiển thị thông báo HACKED&#13;
+&#13;
+Actually: &#13;
+Trang web hiển thị thông báo A potentially dangerous Request.Form value was detected from the client </steps_to_reproduce>
+    </issue>
+    <issue>
+        <id>46139</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2166">2021.20HCB.09.20424077</reporter>
+        <handler id="2166">2021.20HCB.09.20424077</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="70">have not tried</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645198303</date_submitted>
+        <last_updated>1645198303</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Trang web bị tấn công XSS ở ô New Password ở chức năng thay đổi mật khẩu.</summary>
+        <due_date>1</due_date>
+        <description>Trang web bị tấn công XSS ở ô New Password ở chức năng thay đổi mật khẩu. </description>
+        <steps_to_reproduce>1. Chọn vào tên người dùng trên thanh menu, chọn My Account&#13;
+2. Nhập vào Current Password: &quot;Ht.123456789&quot;&#13;
+3. Nhập vào New Password:&#13;
+&#13;
+&lt;script&gt; &#13;
+   alert(&quot;HACKED&quot;)&#13;
+&lt;/script&gt;&#13;
+&#13;
+4. Nhập vào Confirm New&#13;
+&#13;
+&lt;script&gt; &#13;
+   alert(&quot;HACKED&quot;)&#13;
+&lt;/script&gt; &#13;
+&#13;
+5. Nhấp vào Change Password&#13;
+&#13;
+Expected:&#13;
+Trang web không bị hiển thị thông báo HACKED&#13;
+&#13;
+Actually: &#13;
+Trang wweb thông báo lỗi A potentially dangerous Request.Form value was detected from the client </steps_to_reproduce>
+    </issue>
+    <issue>
+        <id>46138</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2166">2021.20HCB.09.20424077</reporter>
+        <handler id="2166">2021.20HCB.09.20424077</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="70">have not tried</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645198144</date_submitted>
+        <last_updated>1645198144</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Trang web bị tấn công XSS ở ô Current Password ở chức năng thay đổi mật khẩu.</summary>
+        <due_date>1</due_date>
+        <description>Trang web bị tấn công XSS ở ô Current Password ở chức năng thay đổi mật khẩu. </description>
+        <steps_to_reproduce>1. Chọn vào tên người dùng trên thanh menu, chọn My Account&#13;
+2. 	&#13;
+Nhập vào Current Password:&#13;
+&#13;
+&lt;script&gt; &#13;
+   alert(&quot;HACKED&quot;)&#13;
+&lt;/script&gt; &#13;
+3. Nhập vào New Password: &quot;Ht.987654321&quot;&#13;
+4. Nhấp vào Change Password&#13;
+&#13;
+&#13;
+Expected:&#13;
+Trang web không hiển thị thông báo HACKED&#13;
+&#13;
+Actually:&#13;
+Trang web thông báo lỗi A potentially dangerous Request.Form value was detected from the client (ctl00$MainContent$Usermanagment$Member$UserName=&quot;&lt;script&gt;     alert(&quot;...&quot;).</steps_to_reproduce>
+    </issue>
+    <issue>
+        <id>46137</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2166">2021.20HCB.09.20424077</reporter>
+        <handler id="2166">2021.20HCB.09.20424077</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="70">have not tried</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645197823</date_submitted>
+        <last_updated>1645197823</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Trang web bị tấn công XSS ở ô Answer trong chức năng Quên mật khẩu</summary>
+        <due_date>1</due_date>
+        <description>Trang web bị tấn công XSS ở ô Answer trong chức năng Quên mật khẩu</description>
+        <steps_to_reproduce>1. Truy cập vào trang chủ&#13;
+2. Chọn Login&#13;
+3. Chọn Forgot Password&#13;
+4. Nhập username: &#13;
+&lt;script&gt; &#13;
+   alert(&quot;HACKED&quot;)&#13;
+&lt;/script&gt; &#13;
+&#13;
+5. Nhấn Submit&#13;
+&#13;
+Expected:&#13;
+1. Trang web không hiển thị thông báo HACKED&#13;
+2. Hiển thị thông báo:&quot;&quot;Your answer could not be verified. Please try again.&quot;&quot;&#13;
+&#13;
+Actually:&#13;
+Trang web hiển thị thông báo: A potentially dangerous Request.Form value was detected from the client (ctl00$MainContent$PasswordRecoveryMember$UserNameContainerID$UserName=&quot;&lt;script&gt;     alert(&quot;...&quot;).&#13;
+</steps_to_reproduce>
+    </issue>
+    <issue>
+        <id>46136</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2166">2021.20HCB.09.20424077</reporter>
+        <handler id="2166">2021.20HCB.09.20424077</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="70">have not tried</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645197568</date_submitted>
+        <last_updated>1645197568</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Trang web bị tấn công XSS ở ô Message ở trang Contact</summary>
+        <due_date>1</due_date>
+        <description>Trang web bị tấn công XSS ở ô Message ở trang Contact</description>
+        <steps_to_reproduce>1. Truy cập vào trang chủ&#13;
+2. Chọn menu Contact&#13;
+3. Nhập ô Your Name: HThuc&#13;
+4. Nhập vào ô Your Email: test@gmail.com&#13;
+5. Nhập vào ô Message:&#13;
+&#13;
+&lt;script&gt; &#13;
+   alert(&quot;HACKED&quot;)&#13;
+&lt;/script&gt; &#13;
+&#13;
+6. Nhập mã capchar&#13;
+7.  Nhấn submit&#13;
+&#13;
+Expected:&#13;
+1.Trang web không hiển thị dòng chữ HACKED&#13;
+2. Hiển thị ra dòng chữ &quot;&quot;Thank you for contacting us. We will contact to you as soon as possible!&quot;&quot;&#13;
+&#13;
+Actually: &#13;
+Trang web hiển thị thông báo A potentially dangerous Request.Form value was detected from the client (ctl00$MainContent$Contacts$TextBoxMessage=&quot;&lt;script&gt;     alert(&quot;...&quot;).&#13;
+A potentially dangerous Request.Form value was detected from the client (ctl00$MainContent$Contacts$TextBoxMessage=&quot;&lt;script&gt;     alert(&quot;...&quot;).</steps_to_reproduce>
+    </issue>
+    <issue>
+        <id>46135</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2166">2021.20HCB.09.20424077</reporter>
+        <handler id="2166">2021.20HCB.09.20424077</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="70">have not tried</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645195857</date_submitted>
+        <last_updated>1645195857</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Trang web bị tấn công XSS ở ô Your Name ở trang Contact</summary>
+        <due_date>1</due_date>
+        <description>Trang web bị tấn công XSS ở ô Your Name ở trang Contact</description>
+        <steps_to_reproduce>1. Truy cập vào trang chủ&#13;
+2. Chọn menu Contact&#13;
+3. Nhập ô Your Name:&#13;
+&#13;
+&lt;script&gt; &#13;
+   alert(&quot;HACKED&quot;)&#13;
+&lt;/script&gt; &#13;
+&#13;
+4. Nhập vào ô Your Email: test@gmail.com&#13;
+5. Nhập vào ô Message: &quot;Test&quot;&#13;
+6. Nhập mã capchar&#13;
+7. Nhấn Submit&#13;
+&#13;
+Expected: &#13;
+1.Trang web không hiển thị thông báo HACKED&#13;
+2. Hiển thị ra dòng chữ &quot;&quot;Thank you for contacting us. We will contact to you as soon as possible!&quot;&quot;&#13;
+&#13;
+Actually:&#13;
+Trang web hiển thị lỗi: A potentially dangerous Request.Form value was detected from the client (ctl00$MainContent$Contacts$TextBoxName=&quot;&lt;script&gt;     alert(&quot;...&quot;).</steps_to_reproduce>
+    </issue>
+    <issue>
+        <id>46134</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2166">2021.20HCB.09.20424077</reporter>
+        <handler id="2166">2021.20HCB.09.20424077</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="70">have not tried</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645195560</date_submitted>
+        <last_updated>1645195560</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Trang web bị lỗi khi tấn công XSS vào đường đẫn địa chỉ trang web</summary>
+        <due_date>1</due_date>
+        <description>Trang web bị lỗi khi tấn công XSS vào đường đẫn địa chỉ trang web</description>
+        <steps_to_reproduce>1. Truy cập vào trang chủ&#13;
+2. Chọn House Hold-&gt; All House Hold&#13;
+3. 	&#13;
+Chèn đoạn sau vào sau &quot;?cart=&quot;&#13;
+&#13;
+&lt;script&gt; &#13;
+   alert(&quot;HACKED&quot;)&#13;
+&lt;/script&gt; &#13;
+&#13;
+4. Nhấn Enter&#13;
+&#13;
+Expected: &#13;
+1. Trang web không hiển thị thông báo HACKED&#13;
+2. Dẫn đến trang 404 Not Found&#13;
+&#13;
+Actually: &#13;
+Trang web hiển thị lỗi A potentially dangerous Request.QueryString value was detected from the client (CatId=&quot;&lt;script&gt;alert(&quot;HACKE...&quot;).&#13;
+&#13;
+</steps_to_reproduce>
+    </issue>
+    <issue>
+        <id>46133</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2166">2021.20HCB.09.20424077</reporter>
+        <handler id="2166">2021.20HCB.09.20424077</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="70">have not tried</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645195307</date_submitted>
+        <last_updated>1645195307</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Tang web bị lỗi khi tấn công XSS ở ô confirm password trang đăng tạo tài</summary>
+        <due_date>1</due_date>
+        <description>Tang web bị lỗi khi tấn công XSS ở ô confirm password trang đăng tạo tài</description>
+        <steps_to_reproduce>	1. Truy cập vào trang chủ&#13;
+2. Nhấn vào Create Account&#13;
+3. Nhập Fullname là &quot;admin&quot;&#13;
+4. Nhập email: admin@gmail.com&#13;
+5. Nhập username: admin&#13;
+6. Nhập password: Ht123456&#13;
+7. Nhập comfirm: &#13;
+&lt;script&gt;&#13;
+   alert(&quot;HACKED&quot;)&#13;
+&lt;/script&gt;&#13;
+&#13;
+8. Nhấn Register&#13;
+&#13;
+Expected:&#13;
+1. Trang web không bị hiển thị thông báo HACKED&#13;
+2. Thông báo đăng kí tài khoản không thành công&#13;
+&#13;
+Actualy:&#13;
+Trang web hiển thị thông báo: A potentially dangerous Request.Form value was detected from the client (ctl00$MainContent$CreateUserWizardMember$CreateUserStepContainer$ConfirmPassword=&quot;&lt;script&gt;    alert(&quot;H...&quot;).</steps_to_reproduce>
+    </issue>
+    <issue>
+        <id>46132</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2166">2021.20HCB.09.20424077</reporter>
+        <handler id="2166">2021.20HCB.09.20424077</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="70">have not tried</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645195106</date_submitted>
+        <last_updated>1645195106</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Trang web bị lỗi khi tấn công XSS ở ô password trang đăng tạo tài khoản</summary>
+        <due_date>1</due_date>
+        <description>Trang web bị lỗi khi tấn công XSS ở ô password trang đăng tạo tài khoản</description>
+        <steps_to_reproduce>1. Truy cập vào trang chủ&#13;
+2. Nhấn vào Create Account&#13;
+3. Nhập Fullname là &quot;admin&quot;&#13;
+4. Nhập email: admin@gmail.com&#13;
+5. Nhập username: admin&#13;
+&#13;
+6. Nhập password: &#13;
+&#13;
+&lt;script&gt;&#13;
+   alert(&quot;HACKED&quot;)&#13;
+&lt;/script&gt;&#13;
+&#13;
+7. Nhập comfirm: Ht123456&#13;
+8. Nhấn Register&#13;
+&#13;
+Expected:&#13;
+1. Trang web không bị hiển thị thông báo HACKED&#13;
+2. Thông báo đăng kí tài khoản không thành công&#13;
+&#13;
+Actually:&#13;
+Hiển thị thông báo lỗi: A potentially dangerous Request.Form value was detected from the client (ctl00$MainContent$CreateUserWizardMember$CreateUserStepContainer$Password=&quot; &lt;script&gt;    alert(&quot;H...&quot;).</steps_to_reproduce>
+    </issue>
+    <issue>
+        <id>46131</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2166">2021.20HCB.09.20424077</reporter>
+        <handler id="2166">2021.20HCB.09.20424077</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="70">have not tried</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645194905</date_submitted>
+        <last_updated>1645194905</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Trang web bị lỗi khi tấn công XSS ở ô email trang đăng tạo tài khoản</summary>
+        <due_date>1</due_date>
+        <description>Trang web bị lỗi khi tấn công XSS ở ô email trang đăng tạo tài khoản</description>
+        <steps_to_reproduce>1. Truy cập vào trang chủ&#13;
+2. Nhấn vào Create Account&#13;
+3. Nhập Fullname là &quot;admin&quot;&#13;
+4. Nhập email: admin@gmail.com&#13;
+5. Nhập username: &#13;
+&#13;
+&lt;script&gt;&#13;
+   alert(&quot;HACKED&quot;)&#13;
+&lt;/script&gt;&#13;
+&#13;
+6. Nhập password: Ht123456&#13;
+7. Nhập comfirm: Ht123456&#13;
+8. Nhấn Register&#13;
+&#13;
+Expected:&#13;
+1. Trang web không bị hiển thị thông báo HACKED&#13;
+2. Thông báo đăng kí tài khoản không thành công&#13;
+&#13;
+Actualy:&#13;
+Trang web hiển thị thông báo lỗi A potentially dangerous Request.Form value was detected from the client (ctl00$MainContent$CreateUserWizardMember$CreateUserStepContainer$UserName=&quot; &lt;script&gt;    alert(&quot;H...&quot;).</steps_to_reproduce>
+    </issue>
+    <issue>
+        <id>46130</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2166">2021.20HCB.09.20424077</reporter>
+        <handler id="2166">2021.20HCB.09.20424077</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="70">have not tried</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645194597</date_submitted>
+        <last_updated>1645194597</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Trang web bị lỗi khi tấn công XSS ở ô fullname trang đăng tạo tài khoản</summary>
+        <due_date>1</due_date>
+        <description>Trang web bị lỗi khi tấn công XSS ở ô fullname trang đăng tạo tài khoản</description>
+        <steps_to_reproduce>1. Truy cập vào trang chủ&#13;
+2. Nhấn vào Create Account&#13;
+3. Nhập Fullname là &#13;
+&#13;
+&lt;script&gt; &#13;
+   alert(&quot;HACKED&quot;)&#13;
+&lt;/script&gt; &#13;
+4. Nhập email: test@gmail.com&#13;
+5. Nhập username: user1&#13;
+6. Nhập password: Ht123456&#13;
+7. Nhập comfirm: Ht123456&#13;
+8. Nhấn Register&#13;
+&#13;
+Expected:&#13;
+1. Trang web không bị hiển thị thông báo HACKED&#13;
+2. Thông báo đăng kí tài khoản không thành công&#13;
+&#13;
+Actualy: &#13;
+Trang web hiển thị lỗi A potentially dangerous Request.Form value was detected from the client (ctl00$MainContent$CreateUserWizardMember$CreateUserStepContainer$FullName=&quot;&lt;script&gt;     alert(&quot;...&quot;).</steps_to_reproduce>
+    </issue>
+    <issue>
+        <id>46129</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2166">2021.20HCB.09.20424077</reporter>
+        <handler id="2166">2021.20HCB.09.20424077</handler>
+        <priority id="40">high</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="10">always</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645194181</date_submitted>
+        <last_updated>1645194181</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Trang web bị lỗi khi tấn công XSS ở ô password trang đăng nhập</summary>
+        <due_date>1</due_date>
+        <description>Trang web bị lỗi khi tấn công XSS ở ô password trang đăng nhập</description>
+        <steps_to_reproduce>1. Truy cập vào trang chủ&#13;
+2. Nhấn vào Login&#13;
+3. Nhập email là admin@gmail.com&#13;
+4. Nhập password là&#13;
+&lt;script&gt; &#13;
+   alert(&quot;HACKED&quot;)&#13;
+&lt;/script&gt; &#13;
+5. Nhấn Login&#13;
+&#13;
+Expected:&#13;
+1. Trang web không hiển thị thông báo HACKED&#13;
+2. Thông báo đăng nhập không thành công&#13;
+&#13;
+Actually:&#13;
+Trang web hiển thị lỗi A potentially dangerous Request.Form value was detected from the client (ctl00$MainContent$LoginView1$LoginMember$Password=&quot; &lt;script&gt;     alert(&quot;...&quot;).&#13;
+&#13;
+</steps_to_reproduce>
+    </issue>
+    <issue>
+        <id>46128</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2166">2021.20HCB.09.20424077</reporter>
+        <handler id="2166">2021.20HCB.09.20424077</handler>
+        <priority id="40">high</priority>
+        <severity id="60">major</severity>
+        <reproducibility id="10">always</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645193906</date_submitted>
+        <last_updated>1645193906</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Trang web bị lỗi khi tấn công XSS ở ô username trang đăng nhập</summary>
+        <due_date>1</due_date>
+        <description>Trang web bị lỗi khi tấn công XSS ở ô username trang đăng nhập</description>
+        <steps_to_reproduce>1. Truy cập vào trang chủ&#13;
+2. Nhấn vào Login&#13;
+3. Nhập email là&#13;
+&#13;
+&lt;script&gt; &#13;
+   alert(&quot;HACKED&quot;)&#13;
+&lt;/script&gt; &#13;
+&#13;
+4. Nhập password là Ht123456+&#13;
+5. Nhấn Login&#13;
+&#13;
+Expected: &#13;
+1. Trang web không hiển thị thông báo HACKED&#13;
+2. Thông báo  nhập sai định dạng email&#13;
+&#13;
+Actually: &#13;
+Trang web hiển thị lỗi A potentially dangerous Request.Form value was detected from the client (ctl00$MainContent$LoginView1$LoginMember$UserName=&quot; &lt;script&gt;     alert(&quot;...&quot;).&#13;
+&#13;
+</steps_to_reproduce>
+    </issue>
+    <issue>
+        <id>46127</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2166">2021.20HCB.09.20424077</reporter>
+        <handler id="2166">2021.20HCB.09.20424077</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="10">always</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645193674</date_submitted>
+        <last_updated>1645193674</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Trang web bị lỗi khi tấn công XSS ở ô tìm kiếm</summary>
+        <due_date>1</due_date>
+        <description>Trang web bị lỗi khi tấn công XSS ở ô tìm kiếm</description>
+        <steps_to_reproduce>1. Truy cập vào trang chủ&#13;
+2. Nhập đoạn sau vào ô tìm kiếm sản phẩm&#13;
+&#13;
+&lt;script&gt; &#13;
+   alert(&quot;HACKED&quot;)&#13;
+&lt;/script&gt; &#13;
+&#13;
+Expected: 	&#13;
+1. Trang web không hiển thị lên thông báo HACKED&#13;
+2. Không có sản phẩm nào được tìm thấy&#13;
+&#13;
+Actualy: &#13;
+Trang web hiển thị lỗi A potentially dangerous Request.Form value was detected from the client (ctl00$Header$TextBoxKeyword=&quot;&lt;script&gt;     alert(&quot;...&quot;).</steps_to_reproduce>
+    </issue>
+    <issue>
+        <id>46126</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2166">2021.20HCB.09.20424077</reporter>
+        <handler id="2166">2021.20HCB.09.20424077</handler>
+        <priority id="50">urgent</priority>
+        <severity id="10">feature</severity>
+        <reproducibility id="10">always</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645193129</date_submitted>
+        <last_updated>1645193158</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Chức năng Remember me sau khi logout không lưu lại tài khoản và mật khẩu</summary>
+        <due_date>1</due_date>
+        <description>Chức năng Remember me sau khi logout không lưu lại tài khoản và mật khẩu&#13;
+</description>
+        <steps_to_reproduce>&quot;1. Truy cập trang chủ&#13;
+2. Click Login&#13;
+3. Textbox Username nhập: &quot;&quot;testusername001&quot;&quot;&#13;
+4. Textbox Password nhập:&#13;
+&quot;&quot;@testpassword001&quot;&quot;&#13;
+5. Click Remember me&#13;
+6. Click login&#13;
+7. Click username&#13;
+8. Click Logout&#13;
+9. Click Login vào trang đăng nhập&#13;
+10. Click Login&#13;
+&#13;
+Expected: Sau khi logout còn lưu lại tài khoản và mật khẩu, login lần hai thành công&#13;
+Actual: Sau khi logout không lưu lại tài khoản và mật khẩu&quot;&#13;
+</steps_to_reproduce>
+    </issue>
+    <issue>
+        <id>46125</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2166">2021.20HCB.09.20424077</reporter>
+        <handler id="2166">2021.20HCB.09.20424077</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="10">always</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645192157</date_submitted>
+        <last_updated>1645192157</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Không hiển thị thông tin tóm tắt của sản phẩm thiêu rating</summary>
+        <due_date>1</due_date>
+        <description>Không hiển thị thông tin tóm tắt của sản phẩm thiêu rating</description>
+        <steps_to_reproduce>1. Truy cập trang chủ.&#13;
+2. Click &quot;&quot;Groceries&quot;&quot;&#13;
+3. Click &quot;&quot;Al Groceries&quot;&quot;&#13;
+&#13;
+Expected: có rating&#13;
+Actual: không có rating&#13;
+</steps_to_reproduce>
+    </issue>
+    <issue>
+        <id>46124</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2166">2021.20HCB.09.20424077</reporter>
+        <handler id="2166">2021.20HCB.09.20424077</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="10">always</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645191663</date_submitted>
+        <last_updated>1645191663</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Click vào sản phẩn ở trang chủ không chuyển đến thông tin sản phẩm</summary>
+        <due_date>1</due_date>
+        <description>Click vào sản phẩn ở trang chủ không chuyển đến thông tin sản phẩm</description>
+        <steps_to_reproduce>1. Truy cập trang chủ.&#13;
+2. Click vào sản phẩm.&#13;
+&#13;
+Expected: chuyển đến thông tin sản phẩm&#13;
+Actual: không chuyển đến thông tin sản phẩm&#13;
+</steps_to_reproduce>
+    </issue>
+    <issue>
+        <id>46118</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2164">2021.20HCB.09.20424067</reporter>
+        <handler id="2164">2021.20HCB.09.20424067</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645160318</date_submitted>
+        <last_updated>1645160318</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>form edit thông tin liên hệ không có capcha chống nhập tự động</summary>
+        <due_date>1</due_date>
+        <description>NR04-218-form edit thông tin liên hệ không có capcha chống nhập tự động</description>
+    </issue>
+    <issue>
+        <id>46117</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2164">2021.20HCB.09.20424067</reporter>
+        <handler id="2164">2021.20HCB.09.20424067</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645160288</date_submitted>
+        <last_updated>1645160288</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>màn hình đăng nhập không có capcha</summary>
+        <due_date>1</due_date>
+        <description>NR04-217-màn hình đăng nhập không có capcha</description>
+    </issue>
+    <issue>
+        <id>46116</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2164">2021.20HCB.09.20424067</reporter>
+        <handler id="2164">2021.20HCB.09.20424067</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645160184</date_submitted>
+        <last_updated>1645160184</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Error</summary>
+        <due_date>1</due_date>
+        <description>FR10-215-Error</description>
+    </issue>
+    <issue>
+        <id>46115</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2164">2021.20HCB.09.20424067</reporter>
+        <handler id="2164">2021.20HCB.09.20424067</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645160165</date_submitted>
+        <last_updated>1645160165</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Error</summary>
+        <due_date>1</due_date>
+        <description>FR10-214-Error</description>
+    </issue>
+    <issue>
+        <id>46114</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2164">2021.20HCB.09.20424067</reporter>
+        <handler id="2164">2021.20HCB.09.20424067</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645160051</date_submitted>
+        <last_updated>1645160051</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Error</summary>
+        <due_date>1</due_date>
+        <description>FR10-213-Error</description>
+    </issue>
+    <issue>
+        <id>46113</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2164">2021.20HCB.09.20424067</reporter>
+        <handler id="2164">2021.20HCB.09.20424067</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645160029</date_submitted>
+        <last_updated>1645160029</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Error</summary>
+        <due_date>1</due_date>
+        <description>FR10-212-Error</description>
+    </issue>
+    <issue>
+        <id>46112</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2164">2021.20HCB.09.20424067</reporter>
+        <handler id="2164">2021.20HCB.09.20424067</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645160002</date_submitted>
+        <last_updated>1645160002</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>update thành công</summary>
+        <due_date>1</due_date>
+        <description>FR10-210-update thành công</description>
+    </issue>
+    <issue>
+        <id>46111</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2164">2021.20HCB.09.20424067</reporter>
+        <handler id="2164">2021.20HCB.09.20424067</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645159958</date_submitted>
+        <last_updated>1645159958</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Giỏ hàng còn sản phẩm đã đặt mua</summary>
+        <due_date>1</due_date>
+        <description>FR10-209-Giỏ hàng còn sản phẩm đã đặt mua</description>
+    </issue>
+    <issue>
+        <id>46110</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2164">2021.20HCB.09.20424067</reporter>
+        <handler id="2164">2021.20HCB.09.20424067</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645159891</date_submitted>
+        <last_updated>1645159891</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Cho phép đặt mua</summary>
+        <due_date>1</due_date>
+        <description>FR10-208-Cho phép đặt mua</description>
+    </issue>
+    <issue>
+        <id>46109</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2164">2021.20HCB.09.20424067</reporter>
+        <handler id="2164">2021.20HCB.09.20424067</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645159869</date_submitted>
+        <last_updated>1645159869</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Cho phép đặt mua</summary>
+        <due_date>1</due_date>
+        <description>FR10-207-Cho phép đặt mua</description>
+    </issue>
+    <issue>
+        <id>46108</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2164">2021.20HCB.09.20424067</reporter>
+        <handler id="2164">2021.20HCB.09.20424067</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645159842</date_submitted>
+        <last_updated>1645159842</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Cho phép đặt mua</summary>
+        <due_date>1</due_date>
+        <description>FR10-206-Cho phép đặt mua</description>
+    </issue>
+    <issue>
+        <id>46107</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2164">2021.20HCB.09.20424067</reporter>
+        <handler id="2164">2021.20HCB.09.20424067</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645159725</date_submitted>
+        <last_updated>1645159725</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Không SUBMIT được ,Không báo lỗi email sai định dạng</summary>
+        <due_date>1</due_date>
+        <description>FR04-195&#13;
+1. Không SUBMIT được&#13;
+2. Không báo lỗi email sai định dạng</description>
+    </issue>
+    <issue>
+        <id>46089</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2240">2021.20HCB.09.20424070</reporter>
+        <handler id="2240">2021.20HCB.09.20424070</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645157389</date_submitted>
+        <last_updated>1645159273</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Listbox chọn số item hiển thị và listbox chọn sorting không được  bo tròn ở các góc</summary>
+        <due_date>1</due_date>
+        <description>FR02-240-Listbox chọn số item hiển thị và listbox chọn sorting không được  bo tròn ở các góc</description>
+    </issue>
+    <issue>
+        <id>46088</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2240">2021.20HCB.09.20424070</reporter>
+        <handler id="2240">2021.20HCB.09.20424070</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645157333</date_submitted>
+        <last_updated>1645159245</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Tất cả các sản phẩm hiện được hiện ra</summary>
+        <due_date>1</due_date>
+        <description>FR02-227-Tất cả các sản phẩm hiện được hiện ra</description>
+    </issue>
+    <issue>
+        <id>46106</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2240">2021.20HCB.09.20424070</reporter>
+        <handler id="2240">2021.20HCB.09.20424070</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645159191</date_submitted>
+        <last_updated>1645159191</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Update thành công</summary>
+        <due_date>1</due_date>
+        <description>FR12-278-Update thành công</description>
+    </issue>
+    <issue>
+        <id>46105</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2240">2021.20HCB.09.20424070</reporter>
+        <handler id="2240">2021.20HCB.09.20424070</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645159111</date_submitted>
+        <last_updated>1645159111</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Update thành công</summary>
+        <due_date>1</due_date>
+        <description>FR12-277-Update thành công</description>
+    </issue>
+    <issue>
+        <id>46104</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2240">2021.20HCB.09.20424070</reporter>
+        <handler id="2240">2021.20HCB.09.20424070</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645159088</date_submitted>
+        <last_updated>1645159088</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Update thành công</summary>
+        <due_date>1</due_date>
+        <description>FR12-276-Update thành công</description>
+    </issue>
+    <issue>
+        <id>46103</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2240">2021.20HCB.09.20424070</reporter>
+        <handler id="2240">2021.20HCB.09.20424070</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645159038</date_submitted>
+        <last_updated>1645159072</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Update thành công</summary>
+        <due_date>1</due_date>
+        <description>FR12-275-Update thành công</description>
+    </issue>
+    <issue>
+        <id>46102</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2240">2021.20HCB.09.20424070</reporter>
+        <handler id="2240">2021.20HCB.09.20424070</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645158981</date_submitted>
+        <last_updated>1645159012</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Update thành công</summary>
+        <due_date>1</due_date>
+        <description>FR12-274-Update thành công</description>
+    </issue>
+    <issue>
+        <id>46101</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2240">2021.20HCB.09.20424070</reporter>
+        <handler id="2240">2021.20HCB.09.20424070</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645158930</date_submitted>
+        <last_updated>1645158930</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Update thành công</summary>
+        <due_date>1</due_date>
+        <description>FR12-273-Update thành công</description>
+    </issue>
+    <issue>
+        <id>46100</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2240">2021.20HCB.09.20424070</reporter>
+        <handler id="2240">2021.20HCB.09.20424070</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645158862</date_submitted>
+        <last_updated>1645158892</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Trang web quá hạn thời gian phản hồi, gây lỗ</summary>
+        <due_date>1</due_date>
+        <description>FR12-272-Trang web quá hạn thời gian phản hồi, gây lỗ</description>
+    </issue>
+    <issue>
+        <id>46099</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2240">2021.20HCB.09.20424070</reporter>
+        <handler id="2240">2021.20HCB.09.20424070</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645158127</date_submitted>
+        <last_updated>1645158127</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Trang không thông báo, ảnh đại diện về default, tuy nhiên thì các file nặng sẽ làm trang bị vượt quá thời gian phản hồi</summary>
+        <due_date>1</due_date>
+        <description>FR12-267&#13;
+Trang không thông báo, ảnh đại diện về default, tuy nhiên thì các file nặng sẽ làm trang bị vượt quá thời gian phản hồi</description>
+    </issue>
+    <issue>
+        <id>46098</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2240">2021.20HCB.09.20424070</reporter>
+        <handler id="2240">2021.20HCB.09.20424070</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645158006</date_submitted>
+        <last_updated>1645158006</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Không có thông báo hiện ra - Thông tin giao hàng của người dùng cập nhật thành công.</summary>
+        <due_date>1</due_date>
+        <description>FR08-262&#13;
+1.Không có thông báo hiện ra.&#13;
+2.Thông tin giao hàng của người dùng cập nhật thành công.&#13;
+</description>
+    </issue>
+    <issue>
+        <id>46097</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2240">2021.20HCB.09.20424070</reporter>
+        <handler id="2240">2021.20HCB.09.20424070</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645157967</date_submitted>
+        <last_updated>1645157967</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Không có thông báo hiện ra - Thông tin giao hàng của người dùng cập nhật thành công.</summary>
+        <due_date>1</due_date>
+        <description>FR08-261&#13;
+1.Không có thông báo hiện ra.&#13;
+2.Thông tin giao hàng của người dùng cập nhật thành công.</description>
+    </issue>
+    <issue>
+        <id>46096</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2240">2021.20HCB.09.20424070</reporter>
+        <handler id="2240">2021.20HCB.09.20424070</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645157913</date_submitted>
+        <last_updated>1645157913</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Ứng dụng bị crash</summary>
+        <due_date>1</due_date>
+        <description>FR08-257-Ứng dụng bị crash</description>
+    </issue>
+    <issue>
+        <id>46095</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2240">2021.20HCB.09.20424070</reporter>
+        <handler id="2240">2021.20HCB.09.20424070</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645157836</date_submitted>
+        <last_updated>1645157836</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Người dùng không thể thay đổi thành công ảnh đại diện của mình.</summary>
+        <due_date>1</due_date>
+        <description>FR08-254-Người dùng không thể thay đổi thành công ảnh đại diện của mình.</description>
+    </issue>
+    <issue>
+        <id>46094</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2240">2021.20HCB.09.20424070</reporter>
+        <handler id="2240">2021.20HCB.09.20424070</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645157803</date_submitted>
+        <last_updated>1645157803</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Trang thay đổi mật khẩu phải bao gồm các ô nhập dữ liệu: Current Password, New Password, Confirm New Password</summary>
+        <due_date>1</due_date>
+        <description>FR08-253-Trang thay đổi mật khẩu phải bao gồm các ô nhập dữ liệu: Current Password, New Password, Confirm New Password</description>
+    </issue>
+    <issue>
+        <id>46093</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2240">2021.20HCB.09.20424070</reporter>
+        <handler id="2240">2021.20HCB.09.20424070</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645157717</date_submitted>
+        <last_updated>1645157717</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Nút upload hình ảnh avatar  được hiển thị là : UPLOAD</summary>
+        <due_date>1</due_date>
+        <description>FR08-252-Nút upload hình ảnh avatar  được hiển thị là : UPLOAD </description>
+    </issue>
+    <issue>
+        <id>46092</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2240">2021.20HCB.09.20424070</reporter>
+        <handler id="2240">2021.20HCB.09.20424070</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645157689</date_submitted>
+        <last_updated>1645157689</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Nút [Changed Password] phải được hiển thị phía góc trái dưới của màn hình</summary>
+        <due_date>1</due_date>
+        <description>FR08-251-Nút [Changed Password] phải được hiển thị phía góc trái dưới của màn hình</description>
+    </issue>
+    <issue>
+        <id>46091</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2240">2021.20HCB.09.20424070</reporter>
+        <handler id="2240">2021.20HCB.09.20424070</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645157657</date_submitted>
+        <last_updated>1645157657</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Tiêu đề của trang thay đổi mật khẩu phải là Change your password</summary>
+        <due_date>1</due_date>
+        <description>FR08-250-Tiêu đề của trang thay đổi mật khẩu phải là Change your password</description>
+    </issue>
+    <issue>
+        <id>46090</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2240">2021.20HCB.09.20424070</reporter>
+        <handler id="2240">2021.20HCB.09.20424070</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="100">N/A</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1645157618</date_submitted>
+        <last_updated>1645157618</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Mật khẩu của người dùng thay đổi không thành công.</summary>
+        <due_date>1</due_date>
+        <description>FR08-242-Mật khẩu của người dùng thay đổi không thành công.</description>
+    </issue>
+    <issue>
+        <id>45950</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2170">2021.20HCB.09.20424028</reporter>
+        <handler id="2170">2021.20HCB.09.20424028</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="10">always</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1644897899</date_submitted>
+        <last_updated>1644897899</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Người dùng không thể tìm đúng sản phẩm mong muốn khi đánh gần đúng với tên sản phẩm cần mua</summary>
+        <due_date>1</due_date>
+        <description>Người dùng không thể tìm đúng sản phẩm mong muốn khi đánh gần đúng với tên sản phẩm cần mua</description>
+    </issue>
+    <issue>
+        <id>45949</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2170">2021.20HCB.09.20424028</reporter>
+        <handler id="2170">2021.20HCB.09.20424028</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="10">always</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1644897838</date_submitted>
+        <last_updated>1644897838</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Các link đường dẫn đến mạng xã hội chưa được cập nhật.</summary>
+        <due_date>1</due_date>
+        <description>Các link đường dẫn đến mạng xã hội chưa được cập nhật.</description>
+    </issue>
+    <issue>
+        <id>45948</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2170">2021.20HCB.09.20424028</reporter>
+        <handler id="2170">2021.20HCB.09.20424028</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="10">always</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1644897810</date_submitted>
+        <last_updated>1644897810</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Sau khi nhập xong số sản phẩm, người dùng phải nhấn nút update số sản phẩm</summary>
+        <due_date>1</due_date>
+        <description>Sau khi nhập xong số sản phẩm, người dùng phải nhấn nút update số sản phẩm</description>
+    </issue>
+    <issue>
+        <id>45947</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2170">2021.20HCB.09.20424028</reporter>
+        <handler id="2170">2021.20HCB.09.20424028</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="10">always</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1644897779</date_submitted>
+        <last_updated>1644897779</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Trang web không cung cấp cho người dùng các trợ giúp hướng dẫn.</summary>
+        <due_date>1</due_date>
+        <description>Trang web không cung cấp cho người dùng các trợ giúp hướng dẫn.</description>
+    </issue>
+    <issue>
+        <id>45946</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2170">2021.20HCB.09.20424028</reporter>
+        <handler id="2170">2021.20HCB.09.20424028</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="10">always</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1644897752</date_submitted>
+        <last_updated>1644897752</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Khi nhấp vào tên tài khoản - &gt; My Account, trang web thường đưa người dùng đến trang các sản phẩm bán hàng.</summary>
+        <due_date>1</due_date>
+        <description>Khi nhấp vào tên tài khoản - &gt; My Account, trang web thường đưa người dùng đến trang các sản phẩm bán hàng.</description>
+    </issue>
+    <issue>
+        <id>45945</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2170">2021.20HCB.09.20424028</reporter>
+        <handler id="2170">2021.20HCB.09.20424028</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="10">always</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1644897674</date_submitted>
+        <last_updated>1644897674</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Không vô hiệu hóa phần chọn sao trong comment</summary>
+        <due_date>1</due_date>
+        <description>Không vô hiệu hóa phần chọn sao trong comment</description>
+    </issue>
+    <issue>
+        <id>45944</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2170">2021.20HCB.09.20424028</reporter>
+        <handler id="2170">2021.20HCB.09.20424028</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="10">always</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1644897642</date_submitted>
+        <last_updated>1644897642</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Không vô hiệu hóa phần chọn sao trong chi tiết sản phẩm</summary>
+        <due_date>1</due_date>
+        <description>Không vô hiệu hóa phần chọn sao trong chi tiết sản phẩm</description>
+    </issue>
+    <issue>
+        <id>45943</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2170">2021.20HCB.09.20424028</reporter>
+        <handler id="2170">2021.20HCB.09.20424028</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="10">always</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1644897543</date_submitted>
+        <last_updated>1644897543</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Hiển thị nút phân trang Không hiển thị dòng trạng thái không có sản phẩm nào</summary>
+        <due_date>1</due_date>
+        <description>Hiển thị nút phân trang&#13;
+Không hiển thị dòng trạng thái không có sản phẩm nào</description>
+    </issue>
+    <issue>
+        <id>45855</id>
+        <project id="399">20HCB.09</project>
+        <reporter id="2166">2021.20HCB.09.20424077</reporter>
+        <handler id="2166">2021.20HCB.09.20424077</handler>
+        <priority id="30">normal</priority>
+        <severity id="50">minor</severity>
+        <reproducibility id="10">always</reproducibility>
+        <status id="50">assigned</status>
+        <resolution id="10">open</resolution>
+        <projection id="10">none</projection>
+        <category id="1">General</category>
+        <date_submitted>1644762061</date_submitted>
+        <last_updated>1644762061</last_updated>
+        <eta id="10">none</eta>
+        <view_state id="10">public</view_state>
+        <summary>Test add</summary>
+        <due_date>1</due_date>
+        <description>some thing</description>
+    </issue>
+</mantis>
